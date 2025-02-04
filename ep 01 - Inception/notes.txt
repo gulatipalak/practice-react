@@ -1,0 +1,3 @@
+what is CDN ? Why we use CDN? can their be any some another way of doing it?
+what is crossorigin?
+
