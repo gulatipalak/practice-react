@@ -1,0 +1,4 @@
+/npm-setup/.parcel-cache/
+/npm-setup/dist/
+/npm-setup/node_modules/
+/npm-setup/package-lock.json
